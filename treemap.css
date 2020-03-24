@@ -1,0 +1,159 @@
+#title {
+  text-align: center;
+}
+#everything {
+  justify-content: center;
+  align
+}
+#tooltip {
+  opacity: 0;
+  width: 200px;
+  height: 100px;
+  position: fixed;
+  z-index: 2;
+  bottom: 250px;
+  left: 1420px;
+}
+svg {
+  margin: 20px;
+  padding: 30px;
+
+}
+#x-axis {
+  z-index: 6;
+}
+
+#legend {
+  position: relative;
+  z-index: 4;
+  bottom: 695px;
+  left: 185px;
+  width: 1500px;
+}
+
+#text1 {
+  position: relative;
+  z-index: 5;
+  bottom: 30px;
+  right: 565px;
+  width: 300px;
+}
+#text2 {
+  position: relative;
+  z-index: 5;
+  bottom: 65px;
+  right: 500px;
+  width: 300px;
+}
+#text3 {
+  position: relative;
+  z-index: 5;
+  bottom: 99px;
+  right: 430px;
+  width: 300px;
+}
+#text4 {
+  position: relative;
+  z-index: 5;
+  bottom: 132px;
+  right: 362px;
+  width: 300px;
+}
+#text5 {
+  position: relative;
+  z-index: 5;
+  bottom: 166px;
+  right: 283px;
+  width: 300px;
+}
+#text6 {
+  position: relative;
+  z-index: 5;
+  bottom: 200px;
+  right: 213px;
+  width: 300px;
+}
+#text7 {
+  position: relative;
+  z-index: 5;
+  bottom: 233px;
+  right: 153px;
+  width: 300px;
+}
+#text8 {
+  position: relative;
+  z-index: 5;
+  bottom: 268px;
+  right: 83px;
+  width: 300px;
+}
+#text9 {
+  position: relative;
+  z-index: 5;
+  bottom: 302px;
+  right: 13px;
+  width: 300px;
+}
+#text10 {
+  position: relative;
+  z-index: 5;
+  bottom: 334px;
+  right: -55px;
+  width: 300px;
+}
+#text11 {
+  position: relative;
+  z-index: 5;
+  bottom: 368px;
+  right: -125px;
+  width: 300px;
+}
+#text12 {
+  position: relative;
+  z-index: 5;
+  bottom: 400px;
+  right: -195px;
+  width: 300px;
+}
+#text13 {
+  position: relative;
+  z-index: 5;
+  bottom: 433px;
+  right: -265px;
+  width: 300px;
+}
+#text14 {
+  position: relative;
+  z-index: 5;
+  bottom: 468px;
+  right: -345px;
+  width: 300px;
+}
+#text15 {
+  position: relative;
+  z-index: 5;
+  bottom: 503px;
+  right: -415px;
+  width: 300px;
+}
+#text16 {
+  position: relative;
+  z-index: 5;
+  bottom: 536px;
+  right: -485px;
+  width: 300px;
+}
+#text17 {
+  position: relative;
+  z-index: 5;
+  bottom: 570px;
+  right: -555px;
+  width: 300px;
+}
+#text18 {
+  position: relative;
+  z-index: 5;
+  bottom: 603px;
+  right: -625px;
+  width: 300px;
+}
