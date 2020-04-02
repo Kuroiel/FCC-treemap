@@ -3,7 +3,6 @@
 }
 #everything {
   justify-content: center;
-  align
 }
 #tooltip {
   opacity: 0;
@@ -17,7 +16,6 @@
 svg {
   margin: 20px;
   padding: 30px;
-
 }
 #x-axis {
   z-index: 6;
